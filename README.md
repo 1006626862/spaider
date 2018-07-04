@@ -1,0 +1,2 @@
+# spaider
+python-spaider-base
